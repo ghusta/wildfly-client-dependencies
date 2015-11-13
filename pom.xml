@@ -10,10 +10,7 @@
 
     <properties>
 
-        <!--<wildfly-client-bom.version>8.0.0.Final</wildfly-client-bom.version>-->
-        <!--<wildfly-client-bom.version>8.2.1.Final</wildfly-client-bom.version>-->
-        <wildfly-client-bom.version>9.0.2.Final</wildfly-client-bom.version>
-        <!--<wildfly-client-bom.version>10.0.0.CR4</wildfly-client-bom.version>-->
+        <wildfly-client-bom.version>8.0.0.Final</wildfly-client-bom.version>
 
     </properties>
 
