@@ -10,8 +10,7 @@
 
     <properties>
 
-        <!--<wildfly-client-bom.version>11.0.0.Final</wildfly-client-bom.version>-->
-        <wildfly-client-bom.version>11.0.0.CR1</wildfly-client-bom.version>
+        <wildfly-client-bom.version>11.0.0.Final</wildfly-client-bom.version>
 
     </properties>
 
