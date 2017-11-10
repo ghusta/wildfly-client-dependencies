@@ -5,4 +5,4 @@ Possible artifacts :
 - wildfly-ejb-client-bom
 - wildfly-jms-client-bom
 
-Last WildFly version : **11.0.0.Final**
+Latest WildFly version : **11.0.0.Final**
