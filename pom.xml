@@ -6,11 +6,11 @@
 
     <groupId>fr.husta.test</groupId>
     <artifactId>wildfly-client-dependencies</artifactId>
-    <version>14.0.0-SNAPSHOT</version>
+    <version>14.0.1-SNAPSHOT</version>
 
     <properties>
 
-        <wildfly-client-bom.version>14.0.0.Final</wildfly-client-bom.version>
+        <wildfly-client-bom.version>14.0.1.Final</wildfly-client-bom.version>
 
     </properties>
 
