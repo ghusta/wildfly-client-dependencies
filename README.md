@@ -1,5 +1,7 @@
 # Dependencies for a client of WildFly [8-14]
 
+[![Build Status](https://travis-ci.org/ghusta/wildfly-client-dependencies.svg?branch=master)](https://travis-ci.org/ghusta/wildfly-client-dependencies)
+
 Possible artifacts :
 
 - wildfly-ejb-client-bom
