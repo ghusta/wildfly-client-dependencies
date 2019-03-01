@@ -7,6 +7,6 @@ Possible artifacts :
 - wildfly-ejb-client-bom
 - wildfly-jms-client-bom
 
-Latest WildFly version : **15.0.0.Final**
+Latest WildFly version : **15.0.1.Final**
 
 Official website : http://wildfly.org/
